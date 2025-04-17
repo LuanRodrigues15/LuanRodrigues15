@@ -29,6 +29,6 @@ Me chamo Luan e sou entusiasta na área de programação, gosto de transformar d
 ---
 
 <div>
-<a href="https://www.linkedin.com/in/luan-rodrigues15" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href = "mailto:luanrodriguesps15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luan-rodrigues15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href = "mailto:luanrodriguesps15@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div> 
