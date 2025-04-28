@@ -28,7 +28,6 @@
 <div align="center">
   <a href="https://github.com/LuanRodrigues15">
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanRodrigues15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRodrigues15&layout=compact&theme=github_dark&langs_count=8"/>
   </a>
 </div>
 
